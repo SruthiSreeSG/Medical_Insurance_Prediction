@@ -1,6 +1,9 @@
 <div align="center">
-<centre><h1>Medical Insurance Prediction</h1></centre><br />
+<centre><h1>Medical Insurance Prediction</h1><br />
+ <img ![cee74642dc5bff63684290a0eb80e1f9](https://github.com/SruthiSreeSG/Medical_Insurance_Prediction/assets/140688742/0eb417be-8027-406a-b899-d8d02b0b2c75)></centre>
  </div>
+
+ 
 
 ## Introduction
   The project titled "Medical Insurance EDA and Forecast" likely involves using machine learning techniques to perform exploratory data analysis (EDA) on a dataset related to medical insurance and then using this analysis to forecast or make predictions about future trends or outcomes in the context of medical insurance. Let me break down the project steps:
@@ -41,6 +44,8 @@ age, children, bmi, charges
 * **Feature Engineering:** Creating new features or modifying existing ones to improve model performance.</br>
 
 ### Insights from EDA
+
+
 * Individuals who smoke have a higher medical bill than individuals who do not smoke.</br>
 * We can see 3 categories of medical bill paid, 0-15k, 15k-32k, 32k-50k.</br>
 * It can be seen that those 3 categories of expenses has a strong correlation with age.</br>
