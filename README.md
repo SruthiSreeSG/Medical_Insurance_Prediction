@@ -1,5 +1,6 @@
-
-# Medical_Insurance_Prediction
+<div align="center">
+<centre><h1>Medical Insurance Prediction</h1></centre><br />
+ </div>
 
 ## Introduction
   The project titled "Medical Insurance EDA and Forecast" likely involves using machine learning techniques to perform exploratory data analysis (EDA) on a dataset related to medical insurance and then using this analysis to forecast or make predictions about future trends or outcomes in the context of medical insurance. Let me break down the project steps:
