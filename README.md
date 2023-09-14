@@ -10,8 +10,27 @@
 <centre><h2>Introduction</h2><br />
 </div>
  
-  The project titled "Medical Insurance EDA and Forecast" likely involves using machine learning techniques to perform exploratory data analysis (EDA) on a dataset related to medical insurance and then using this analysis to forecast or make predictions about future trends or outcomes in the context of medical insurance. Let me break down the project steps:
+  The project titled "Medical Insurance EDA and Forecast" likely involves using machine learning techniques to perform exploratory data analysis (EDA) on a dataset related to medical insurance and then using this analysis to forecast or make predictions about future trends or outcomes in the context of medical insurance. 
 
+<div align="center">
+<centre><h1>Intel DevCloud</h1><br />
+</div>
+
+DevCloud for oneAPI provides a library of highly optimized algorithms for data preprocessing and analysis, specifically designed to accelerate machine learning
+workloads on a diverse set of Intel architectures. DevCloud is an all-in-one online destination to test the performance of your AI models on Intel processors. It's a dedicated space that allows developers and engineers to innovate in a production-ready space. What's great about this platform is that it gives you access to dedicated Intel technology – without having to invest in hardware upfront. 
+
+<centre><h3>Key Features</h3><br />
+* The latest Intel hardware, including Intel Core processors, Intel Xeon Scalable processors, Intel IoT developer kits and Intel FPGAs
+* Intel-optimized frameworks – the latest version of OpenVINO
+
+This project is executed in Jupyter Notebook provided by Intel DevCloud, in One API platform
+
+ <div align="center">
+<img width ="300" src ="https://github.com/SruthiSreeSG/Medical_Insurance_Prediction/assets/140688742/5a7af305-af22-4ace-846e-668e0803e096">
+ </div>
+
+
+Let me break down the project steps:
 <div>
 <centre><h2>Step-1:Importing libraries</h2><br />
 </div>
