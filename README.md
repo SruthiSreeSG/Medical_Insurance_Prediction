@@ -16,6 +16,11 @@
 <centre><h1>Intel DevCloud</h1><br />
 </div>
 
+ <div align="center">
+<img width ="300" src ="https://github.com/SruthiSreeSG/Medical_Insurance_Prediction/assets/140688742/5a7af305-af22-4ace-846e-668e0803e096">
+ </div>
+
+
 DevCloud for oneAPI provides a library of highly optimized algorithms for data preprocessing and analysis, specifically designed to accelerate machine learning
 workloads on a diverse set of Intel architectures. DevCloud is an all-in-one online destination to test the performance of your AI models on Intel processors. It's a dedicated space that allows developers and engineers to innovate in a production-ready space. What's great about this platform is that it gives you access to dedicated Intel technology – without having to invest in hardware upfront. 
 
@@ -25,9 +30,6 @@ workloads on a diverse set of Intel architectures. DevCloud is an all-in-one onl
 
 This project is executed in Jupyter Notebook provided by Intel DevCloud, in One API platform
 
- <div align="center">
-<img width ="300" src ="https://github.com/SruthiSreeSG/Medical_Insurance_Prediction/assets/140688742/5a7af305-af22-4ace-846e-668e0803e096">
- </div>
 
 
 Let me break down the project steps:
